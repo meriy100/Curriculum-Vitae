@@ -12,7 +12,36 @@
 
 ### 言語
 
-- TODO
+
+#### 業務経験あり
+
+Ruby 
+
+ES6
+
+CoffeeScript
+
+Typescript (レビューのみ)
+
+#### 業務経験なし
+
+C
+
+C++
+
+Java
+
+Python
+
+Haskell
+
+Elm
+
+Scala 
+
+Elixir
+
+BrainF*ck
 
 ### フレームワーク
 
